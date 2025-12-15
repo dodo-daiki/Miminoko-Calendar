@@ -16,6 +16,21 @@
   },
   {
     "status": "公開",
+    "eventName": "みみのこCUP",
+    "organizer": "@MichelVrchat",
+    "date": "2025/12/17",
+    "openTime": "21:00",
+    "startTime": "21:30",
+    "endTime": "",
+    "joinMethod": "事前申し込み制",
+    "eventTag": "対戦・バトル, 初心者歓迎, 事前登録制, 参加賞あり, 賞品あり, 配信あり",
+    "description": "Miminoko Kart Circuitでレースをします。2クラス制でクラス毎に1～3位のバッヂと今回のレース内で一番タイムが速いみみに最速バッヂを贈呈します。",
+    "message": "みみのこ最速を目指せ！！",
+    "poster": "https://dodo-daiki.github.io/Miminoko-Calendar/images/FORM-ROW-8.jpg",
+    "url": ""
+  },
+  {
+    "status": "公開",
     "eventName": "みみのこFC 銅バッジ戦",
     "organizer": "さふけっと",
     "date": "2025/12/18",
@@ -42,21 +57,6 @@
     "description": "銅バッジ獲得のチャンス！",
     "message": "",
     "poster": "https://dodo-daiki.github.io/Miminoko-Calendar/images/AUTO-20251219.png",
-    "url": ""
-  },
-  {
-    "status": "公開",
-    "eventName": "みみのこなんとか杯",
-    "organizer": "どっと",
-    "date": "2025/12/19",
-    "openTime": "21:30",
-    "startTime": "22:00",
-    "endTime": "23:00",
-    "joinMethod": "Group+で開催",
-    "eventTag": "みみのこファイト, 対戦・バトル, 当日参加〇, 参加賞あり",
-    "description": "みみのこイベントシステムのテスト。イベント概要はこちらに記載される。",
-    "message": "",
-    "poster": "https://dodo-daiki.github.io/Miminoko-Calendar/images/FORM-ROW-4.png",
     "url": ""
   },
   {
@@ -106,21 +106,6 @@
   },
   {
     "status": "公開",
-    "eventName": "なんとか杯",
-    "organizer": "どっと",
-    "date": "2025/12/23",
-    "openTime": "21:30",
-    "startTime": "22:00",
-    "endTime": "23:00",
-    "joinMethod": "Group+で開催",
-    "eventTag": "みみのこファイト, 初心者歓迎, 当日参加〇, 参加賞あり",
-    "description": "みみのこイベントシステムのテストです。ここにイベント概要が記載されます。",
-    "message": "",
-    "poster": "https://dodo-daiki.github.io/Miminoko-Calendar/images/FORM-ROW-5.png",
-    "url": ""
-  },
-  {
-    "status": "公開",
     "eventName": "みみのこFC 銅バッジ戦",
     "organizer": "さふけっと",
     "date": "2025/12/24",
@@ -132,21 +117,6 @@
     "description": "銅バッジ獲得のチャンス！",
     "message": "",
     "poster": "https://dodo-daiki.github.io/Miminoko-Calendar/images/AUTO-20251224.png",
-    "url": ""
-  },
-  {
-    "status": "未提出",
-    "eventName": "みみのこテスト",
-    "organizer": "",
-    "date": "2025/12/25",
-    "openTime": "21:30",
-    "startTime": "21:00",
-    "endTime": "",
-    "joinMethod": "",
-    "eventTag": "",
-    "description": "",
-    "message": "",
-    "poster": "",
     "url": ""
   },
   {
@@ -675,21 +645,6 @@
     "url": ""
   },
   {
-    "status": "未提出",
-    "eventName": "みみのこ手動イベント",
-    "organizer": "",
-    "date": "2026/02/11",
-    "openTime": "",
-    "startTime": "",
-    "endTime": "",
-    "joinMethod": "",
-    "eventTag": "",
-    "description": "",
-    "message": "",
-    "poster": "",
-    "url": ""
-  },
-  {
     "status": "公開",
     "eventName": "みみのこFC 銀バッジ戦",
     "organizer": "さふけっと",
@@ -987,6 +942,21 @@
     "description": "銀バッジを目指して戦おう！",
     "message": "",
     "poster": "https://dodo-daiki.github.io/Miminoko-Calendar/images/AUTO-20260313.png",
+    "url": ""
+  },
+  {
+    "status": "公開",
+    "eventName": "みみのこカフェ",
+    "organizer": "パンカビ",
+    "date": "2026/03/14",
+    "openTime": "22:00",
+    "startTime": "22:00",
+    "endTime": "23:00",
+    "joinMethod": "Group+で開催",
+    "eventTag": "交流会",
+    "description": "みみのこバトルが開催されるカフェ",
+    "message": "",
+    "poster": "https://dodo-daiki.github.io/Miminoko-Calendar/images/AUTO-20260314.png",
     "url": ""
   }
 ]
