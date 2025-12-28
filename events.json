@@ -3,21 +3,6 @@
     "status": "公開",
     "eventName": "みみのこFC 銅バッジ戦",
     "organizer": "さふけっと",
-    "date": "2025/12/28",
-    "openTime": "21:30",
-    "startTime": "22:00",
-    "endTime": "23:00",
-    "joinMethod": "Group+で開催",
-    "eventTag": "バッジ戦",
-    "description": "銅バッジ獲得のチャンス！",
-    "message": "",
-    "poster": "https://dodo-daiki.github.io/Miminoko-Calendar/images/AUTO-20251228.png",
-    "url": ""
-  },
-  {
-    "status": "公開",
-    "eventName": "みみのこFC 銅バッジ戦",
-    "organizer": "さふけっと",
     "date": "2025/12/29",
     "openTime": "21:30",
     "startTime": "22:00",
@@ -912,6 +897,21 @@
     "description": "銅バッジ獲得のチャンス！",
     "message": "",
     "poster": "https://dodo-daiki.github.io/Miminoko-Calendar/images/AUTO-20260326.png",
+    "url": ""
+  },
+  {
+    "status": "公開",
+    "eventName": "みみのこFC 金バッジ戦",
+    "organizer": "さふけっと",
+    "date": "2026/03/27",
+    "openTime": "21:30",
+    "startTime": "22:00",
+    "endTime": "23:00",
+    "joinMethod": "Group+で開催",
+    "eventTag": "バッジ戦",
+    "description": "月に一度の真剣勝負！金バッジ争奪戦です。",
+    "message": "",
+    "poster": "https://dodo-daiki.github.io/Miminoko-Calendar/images/AUTO-20260327.png",
     "url": ""
   }
 ]
