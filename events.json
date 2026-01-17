@@ -1,21 +1,6 @@
 [
   {
     "status": "公開",
-    "eventName": "みみのこカフェ",
-    "organizer": "パンカビ",
-    "date": "2026/01/17",
-    "openTime": "22:00",
-    "startTime": "22:00",
-    "endTime": "23:00",
-    "joinMethod": "Group+で開催",
-    "eventTag": "交流会",
-    "description": "みみのこバトルが開催されるカフェ",
-    "message": "",
-    "poster": "https://dodo-daiki.github.io/Miminoko-Calendar/images/AUTO-20260117.png",
-    "url": ""
-  },
-  {
-    "status": "公開",
     "eventName": "みみのこFC 銅バッジ戦",
     "organizer": "さふけっと",
     "date": "2026/01/18",
@@ -176,7 +161,7 @@
     "eventTag": "初心者歓迎",
     "description": "みみのこFCに一度も参加したことのない方のみの大会！初耳戦です。",
     "message": "",
-    "poster": "https://dodo-daiki.github.io/Miminoko-Calendar/images/AUTO-20260201.jpg",
+    "poster": "",
     "url": ""
   },
   {
@@ -897,6 +882,21 @@
     "description": "銅バッジ獲得のチャンス！",
     "message": "",
     "poster": "https://dodo-daiki.github.io/Miminoko-Calendar/images/AUTO-20260414.png",
+    "url": ""
+  },
+  {
+    "status": "公開",
+    "eventName": "みみのこFC 銅バッジ戦",
+    "organizer": "さふけっと",
+    "date": "2026/04/16",
+    "openTime": "21:30",
+    "startTime": "22:00",
+    "endTime": "23:00",
+    "joinMethod": "Group+で開催",
+    "eventTag": "バッジ戦",
+    "description": "銅バッジ獲得のチャンス！",
+    "message": "",
+    "poster": "https://dodo-daiki.github.io/Miminoko-Calendar/images/AUTO-20260416.png",
     "url": ""
   }
 ]
