@@ -806,7 +806,7 @@
     "eventTag": "バッジ戦",
     "description": "銀バッジを目指して戦おう！",
     "message": "",
-    "poster": "https://dodo-daiki.github.io/Miminoko-Calendar/images/AUTO-20261023.png",
+    "poster": "",
     "url": ""
   },
   {
@@ -851,7 +851,7 @@
     "eventTag": "バッジ戦",
     "description": "銅バッジ獲得のチャンス！",
     "message": "",
-    "poster": "https://dodo-daiki.github.io/Miminoko-Calendar/images/AUTO-20261028.png",
+    "poster": "",
     "url": ""
   },
   {
@@ -927,6 +927,21 @@
     "description": "銀バッジを目指して戦おう！",
     "message": "",
     "poster": "https://dodo-daiki.github.io/Miminoko-Calendar/images/AUTO-20261103.png",
+    "url": ""
+  },
+  {
+    "status": "公開",
+    "eventName": "みみのこFC 銅バッジ戦",
+    "organizer": "さふけっと",
+    "date": "2026/11/04",
+    "openTime": "21:30",
+    "startTime": "22:00",
+    "endTime": "23:00",
+    "joinMethod": "Group+で開催",
+    "eventTag": "バッジ戦",
+    "description": "銅バッジ獲得のチャンス！",
+    "message": "",
+    "poster": "https://dodo-daiki.github.io/Miminoko-Calendar/images/AUTO-20261104.png",
     "url": ""
   }
 ]
